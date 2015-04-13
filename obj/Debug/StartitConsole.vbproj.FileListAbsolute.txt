@@ -1,0 +1,8 @@
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\bin\StartitConsole.dll
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\bin\StartitConsole.pdb
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\bin\StartitConsole.xml
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\obj\Debug\StartitConsole.Resources.resources
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\obj\Debug\StartitConsole.vbproj.GenerateResource.Cache
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\obj\Debug\StartitConsole.dll
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\obj\Debug\StartitConsole.xml
+c:\users\lorenzo.pini\documents\visual studio 2012\Projects\StartitConsole\StartitConsole\obj\Debug\StartitConsole.pdb
